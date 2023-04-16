@@ -16,3 +16,4 @@ This is the workflow that would be followed in the finished product.
    $ git clone https://github.com/sanjaychari/mega-ace-hackathon-submission.git
 3. Open the repository in VSCode. Modify gcp_service_account_key_path in demo.py according to your GCP account credentials.
 4. Press F5 while demo.py is open in VSCode. The Dapp will run in the Beaker Sandbox.
+5. You should be able to see the corresponding VM created in GCP.
